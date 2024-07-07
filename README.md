@@ -1,1 +1,1 @@
-# molecular_dynamics
+# Testing existing MD force prediction models
